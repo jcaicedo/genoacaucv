@@ -25,35 +25,6 @@
 
 <body>
 
-<nav class="navbar navbar-inverse">
-    <div class="navbar-container-fluid">
-        <div class="navbar-header">
-            <a href="#" class="navbar-brand">
-                EcoAventura Sin Limite
-            </a>
-        </div>
-        <div>
-            <ul class="nav navbar-nav">
-                <li class="active">
-                    <a href="carousel.html">Home</a>
-                </li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" >
-                        Page 1
-                        <span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Page 1-1</a></li>
-                        <li><a href="#">Page 1-2</a></li>
-                        <li><a href="#">Page 1-3</a></li>
-                    </ul>
-                </li>
-                <li><a href="#">Page 2</a></li>
-                <li><a href="#">Page 3</a></li>
-            </ul>
-        </div>
-    </div>
-</nav>
-
 
 
 

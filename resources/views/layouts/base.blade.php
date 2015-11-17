@@ -33,9 +33,10 @@
                 <li><a href="#">Inicio</a></li>
                 <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"> Nosotros <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Menu</a></li>
-                        <li><a href="#">Menu</a></li>
-                        <li><a href="#">Menu</a></li>
+                        <li><a href="#">Proyecto OACA</a></li>
+                        <li><a href="#">Instituciones Piloto</a></li>
+                        <li><a href="#">OACA</a></li>
+                        <li><a href="#">Desarrolladores</a></li>
                     </ul>
                 </li>
                 <li><a href="#">Generador</a></li>

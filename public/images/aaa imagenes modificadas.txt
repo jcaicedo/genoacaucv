@@ -1,0 +1,7 @@
+gbg_001.png
+barranav.png
+botreducir.png
+botampliar.png
+botcontraste.png
+botrestaurar.png
+banner_rep.png
