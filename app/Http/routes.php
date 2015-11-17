@@ -15,4 +15,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::get('diseño','WelcomeController@index');
+Route::get('diseño','HomeController@index');
