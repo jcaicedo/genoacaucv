@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>GenOacaUCV</title>
 
+    {!! Html::style('assets') !!}
     {!! Html::style('assets/css/bootstrap.css') !!}
     {!! Html::style('http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css') !!}
 
@@ -25,6 +26,8 @@
 
 <body>
 
+
+<!--NAVBAR CON LOGIN-->
 
 
 
@@ -47,13 +50,55 @@
                 <li><a href="#">Inicio</a></li>
                 <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"> Nosotros <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">Menu</a></li>
-                        <li><a href="#">Menu</a></li>
-                        <li><a href="#">Menu</a></li>
+                        <li><a href="#">Proyecto OACA</a></li>
+                        <li><a href="#">Instituciones Piloto</a></li>
+                        <li><a href="#">OACA</a></li>
+                        <li><a href="#">Equipo Desarrollo</a></li>
+
                     </ul>
                 </li>
                 <li><a href="#">Generador</a></li>
                 <li><a href="#">Contacto</a></li>
+            </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Login
+                <span class="glyphicon glyphicon-log-in">
+                </span>
+                    </a>
+                    <div class="dropdown-menu">
+
+                        <form action="" id="formlogin" class="form container-fluid">
+                            <div class="input-group">
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                                <label for="usr">Name:</label>
+                                <input type="text" class="form-control" id="usr">
+                            </div>
+                            <div class="form-group">
+                                <label for="pwd">Password:</label>
+                                <span class="input-group-addon"><span class="glyphicon glyphicon-user"></span></span>
+                                <input type="password" class="form-control" id="pwd">
+                            </div>
+                            <button class="btn btn-block" id="btnLogin" type="button">Login</button>
+
+
+                        </form>
+                        <div class="container-fluid">
+                            <!--                    <br>-->
+                            <a href="#" class="small">Forgot password?</a>
+                        </div>
+
+
+                    </div>
+
+
+
+
+                </li>
+
+
             </ul>
 
         </div>
@@ -64,7 +109,14 @@
 
 </nav>
 
+<hr>
+
+
+<div class="container">
+
 @yield('content')
+
+</div>
 
 {{--Script--}}
 
