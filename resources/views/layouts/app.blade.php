@@ -31,7 +31,8 @@
 
 <nav class="navbar navbar-inverse">
     <div class="container-fluid">
-        <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#menu">
+        <div class="navbar-header">
+        <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#menu" aria-expanded="false">
             <span class="sr-only">GenOACAUCV</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -39,8 +40,8 @@
 
         </button>
         <a href="#" class="navbar-brand">GenOACAUCV</a>
+        </div>
 
-    </div>
     <div class="collapse navbar-collapse" id="menu">
 
         <ul class="nav navbar-nav">
@@ -56,11 +57,13 @@
                 </ul>
 
             </li>
+            <li><a href="#">Generador</a></li>
+            <li><a href="#">Contacto</a></li>
 
         </ul>
 
 
-
+    </div>
     </div>
 </nav>
 
