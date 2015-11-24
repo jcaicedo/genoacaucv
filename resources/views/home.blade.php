@@ -3,9 +3,16 @@
 
 @section('content')
 
-    <section class="hero">
-                
+    {{--<section class="hero">
+
     </section>
+--}}
+
+<div class="hero">
+
+    <p>PROBANDO</p>
+
+</div>
 
 
 
