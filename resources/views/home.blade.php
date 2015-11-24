@@ -3,7 +3,14 @@
 
 @section('content')
 
-<h2>hola</h2>
+    <div class="container container-fluid">
+        <div class="row">
+
+            <h2>hola</h2>
+        </div>
+
+    </div>
+
 
 
 @endsection
