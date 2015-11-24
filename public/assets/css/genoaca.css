@@ -1,0 +1,10 @@
+#home_inicio{
+    background-image:url(/images/banner-ppal.png);
+    background-size: cover;
+    background-repeat: repeat-y; /* for vertical repeat */
+    background-repeat: repeat-x; /* for horizontal repeat */
+    height:xxpx;
+    position: absolute;
+
+
+}

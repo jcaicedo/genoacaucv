@@ -3,11 +3,12 @@
 
 @section('content')
 
-    <div class="container container-fluid">
-        <div class="row">
+    <div class="container col-lg-12" id="home_inicio">
+      
 
-            <h2>hola</h2>
-        </div>
+
+
+
 
     </div>
 

@@ -7,9 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>GenOacaUCV</title>
 
-    {!! Html::style('assets') !!}
-    {!! Html::style('assets/css/bootstrap.css') !!}
-    {!! Html::style('http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css') !!}
+
+
+    {!! Html::style('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css') !!}
+    {!! Html::style('assets/css/genoaca.css') !!}
+
+   {{-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">--}}
+
+
+
 
     {{--Fonts--}}
 
@@ -67,7 +73,9 @@
     </div>
 </nav>
 
-@yield('content');
+
+
+@yield('content')
 
 {{--@yield('menu1')--}}
 
@@ -79,7 +87,7 @@
 
 {{--Script--}}
 
-{!! Html::script('assets/js/bootstrap.min.js') !!}
+{{--{!! Html::script('assets/js/bootstrap.min.js') !!}--}}
 {!! Html::script('https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js') !!}
 {!! Html::script('http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js') !!}
 
