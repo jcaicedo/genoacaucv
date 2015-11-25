@@ -1,72 +1,26 @@
-.home_inicio{
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background: url(/images/banner-ppal.png) no-repeat center center;
-    background-size: cover;
-
-    height: 100%;
-
-
-
-
-
-}
-
 .hero {
-    background: url(/images/banner-ppal.png) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+    background: url(http://i.imgur.com/CBKF6lk.png) center center;
     background-size: cover;
     color: white;
     text-align: center;
+    border: 0;
     height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
 
+figure {
+    height: 0;
+    margin: 0 0 24px 0;
+    padding-bottom: 20.25%; /* 16:9 */
     position: relative;
-    padding: 50px 0px;
-}
-.hero:before {
-    display: block;
-    content: "";
-    width: 100%;
-    padding-top: 56.25%;
-}
-.hero div {
-    width: 100%;
-    padding: 20px 0px;
-}
-
-.hero .hero-logo {
-    margin: auto;
-    max-width: 400px;
-}
-
-.hero .hero-logo img {
     width: 100%;
 }
 
-.hero .montse, .hero .icon-down {
-    font-size: 2em;
+p {
+    color: red;
+    font-family: sans-serif;
+    font-size: 4em;
 }
-
-.hero .montse:nth-child(2) {
-    letter-spacing: 8px;
-    padding-bottom: 10px;
-}
-
-.hero .montse:nth-child(3) {
-    padding-top: 0px;
-    font-size: 1.7em;
-}
-
-.hero .icon-down {
-    cursor: pointer;
-}
-
-
-
-
-
-
-
