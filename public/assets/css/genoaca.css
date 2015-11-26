@@ -1,5 +1,5 @@
 .hero {
-    background: url(http://i.imgur.com/CBKF6lk.png) center center;
+    background: url(/images/portada.jpg) center center;
     background-size: cover;
     color: white;
     text-align: center;
@@ -10,11 +10,11 @@
     top: 0;
     width: 100%;
 }
-
+/*http://i.imgur.com/CBKF6lk.png*/
 figure {
     height: 0;
     margin: 0 0 24px 0;
-    padding-bottom: 20.25%; /* 16:9 */
+    padding-bottom: 45%; /* 16:9 */
     position: relative;
     width: 100%;
 }
