@@ -79,6 +79,7 @@
 
 @yield('content')
 
+
 {{--@yield('menu1')--}}
 
 {{--<div class="container">--}}

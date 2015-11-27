@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 
+
 @section('content')
 
     {{--<section class="hero">
@@ -25,8 +26,21 @@
             <div>
            {{--Aqui va informaciòn--}}
 
-               
+
             </div>
+        </div>
+    </div>
+
+
+     {{--Aqui va Carrusel--}}
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-7">
+                <img src="" alt="">
+
+            </div>
+            <div class="col-md-5">espacio 5</div>
         </div>
     </div>
 
