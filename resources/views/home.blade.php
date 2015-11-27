@@ -10,7 +10,7 @@
 
 <figure>
     <div class="hero">
-        <button type="button" class="btn btn-primary btn-lg">Large button</button>
+        <button type="button" class="btn btn-primary btn-lg"><h1>CREAR</h1></button>
     </div>
 </figure>
 

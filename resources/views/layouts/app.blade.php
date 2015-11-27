@@ -37,7 +37,7 @@
 
 <!--NAVBAR CON LOGIN-->
 
-<nav class="navbar navbar-inverse">
+<nav class="navbar navbar-inverse" id="menu">
     <div class="container-fluid">
         <div class="navbar-header">
         <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#menu" aria-expanded="false">
