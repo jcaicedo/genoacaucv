@@ -23,8 +23,9 @@
     <div class="experience-section" id="experience" style="height: 390px; background-attachment: fixed; background-position: 50% 4px;">
         <div class="wrapper">
             <div>
-                <h2>The Experience</h2>
-                <p>The Krash experience is like living in a particle accelerator for people. Beyond the optimal living environment, both the houses and the programming are designed to maximize collaboration, innovation and the establishment of life-long friendships.</p>
+           {{--Aqui va informaciòn--}}
+
+               
             </div>
         </div>
     </div>

@@ -9,6 +9,7 @@
     position: absolute;
     top: 0;
     width: 100%;
+    background-attachment: fixed;
 }
 /*http://i.imgur.com/CBKF6lk.png*/
 figure {
@@ -31,7 +32,7 @@ p {
     margin: 0%;
     -webkit-border-radius: 0%;
     -moz-border-radius: 0%;
-    border-radius: 0%;x
+    border-radius: 0%;
 
 }
 
@@ -61,7 +62,7 @@ p {
 
 
 #experience {
-    background: url('https://s3.amazonaws.com/krashassets/img/bg/experience.jpg') no-repeat center center / cover transparent;
+    background: url(/images/background2.jpeg) no-repeat center center / cover transparent;
 
 .experience-section {
     width: 100%;
