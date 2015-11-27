@@ -1,5 +1,5 @@
 .hero {
-    background: url(/images/portada.jpg) center center;
+    background: url(/images/banner-ppal.png) center center;
     background-size: cover;
     color: white;
     text-align: center;
@@ -38,3 +38,33 @@ p {
 
 /*bONOTES*/
 
+.boton_Crear_oaca {
+    margin-top: 400px;
+    background-color: transparent;
+    color: #080808;
+    border-color: #080808;
+
+}
+
+
+
+.down {
+    width: 0px;
+    height: 0px;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-top: 20px solid #242626;
+    margin: -1px auto -20px;
+    position: relative;
+    z-index: 9;
+}
+
+
+#experience {
+    background: url('https://s3.amazonaws.com/krashassets/img/bg/experience.jpg') no-repeat center center / cover transparent;
+
+.experience-section {
+    width: 100%;
+    position: relative;
+    min-height: 450px;
+}
