@@ -34,16 +34,35 @@ figure {
 
 
 /*bONOTES*/
+div>h2,div>p{
 
-.boton_Crear_oaca {
-    margin-top: 400px;
-    background-color: transparent;
-    color: #080808;
-    border-color: #080808;
+    color: #0f0f0f;
 
 }
 
+.boton_Crear_oaca {
 
+    font-size: 30px;
+    margin: 10px 20px;
+    background: #3BA7E1;
+    color:#FFFFFF;
+    padding: 10px 20px;
+    display: inline-block;
+    box-shadow: 0px 5px 0px #1D64A6;
+    text-decoration: none;
+    top: 100px;
+
+}
+
+.boton_Crear_oaca:hover{
+    box-shadow: 0px 2px 0px #1D64A6;
+
+}
+
+.boton_Crear_oaca:active{
+    box-shadow: none;
+
+}
 
 .down {
     width: 0px;
@@ -58,7 +77,7 @@ figure {
 
 
 #experience {
-    background: url(/images/background2.jpeg) no-repeat center center / cover transparent;
+    background: url(/images/background2.jpeg) no-repeat center center / cover transparent;}
 
 .experience-section {
     width: 100%;

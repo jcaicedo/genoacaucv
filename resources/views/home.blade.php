@@ -12,8 +12,15 @@
 <figure>
     <div class="hero">
 
-        <a class="btn btn-lg btn-primary boton_Crear_oaca" href="">CREAR OACA</a>
+        <div class="container">
+            <h2>SISGEOACA</h2>
 
+            <p>Sistema de Gestion de Objetos de Aprendizajes de Contenidos Abiertos Accesibles</p>
+        </div>
+
+            <div class="container2">
+        <a href="#" class="boton_Crear_oaca">Crear OACA</a>
+            </div>
     </div>
 
 </figure>
