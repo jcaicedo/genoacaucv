@@ -45,20 +45,26 @@
 .experience-section{
     width: 100%;
     position: relative;
-    min-height:50%;
     margin-bottom: 0;
 
 }
 
 #container-intro{
     position: absolute;
-    margin-top: 100px;;
+    margin-top: 100px;
 
 }
 
-#text-intro,#text-intro>p{
-    background-color: #0f0f0f;
-    color: whitesmoke;
+#text-intro{
+    background: rgba(91, 194, 54,1.3);
+    opacity: 0.5;
+    color: #0f0f0f;
 
+}
+
+#text-intro p{
+
+    color: #ac2925;
+    font-size: 120%;
 }
 
