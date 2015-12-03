@@ -34,14 +34,8 @@
     z-index: 9;
 }
 
-/*
-.flexible{
-    background: url('/images/legos_cropped.jpg') no-repeat center center;
-    background-size: cover;
-    background-color: #FFFFFF transparent;
 
-    filter:alpha(opacity=60); opacity:.6;
-}*/
+/*Inicio Style Introduccion*/
 
 #experience{
 
@@ -89,3 +83,5 @@
     font-weight: 400;
 
 }
+
+/*Fin Style Introduccion*/

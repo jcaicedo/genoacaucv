@@ -37,6 +37,70 @@
 
 <!--NAVBAR CON LOGIN-->
 
+<header>
+
+    <div class="navbar navbar-inverse navbar-static-top" role="navigation">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navegacion-gen">
+                            <span class="sr-only">Desplegar/Ocultar Menu</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a href="#" class="navbar-brand">SisGeOACAA</a>
+                </div>
+                {{--Inicia Menu--}}
+
+                <div class="collapse navbar-collapse" id="navegacion-gen">
+
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="#">Inicio</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">
+                                    Proyecto OACAA <span class="caret"></span>
+                            </a>
+                            <ul class="dropdown-menu" role="menu">
+
+                                <li><a href="#">Proyecto OACA</a></li>
+                                <li><a href="#">Instituciones Piloto</a></li>
+                                <li><a href="#">OACA</a></li>
+                                <li><a href="#">Equipo Desarrollo</a></li>
+
+                            </ul>
+                        </li>
+                        <li class="active"><a href="#">Generador</a></li>
+                        <li class="active"><a href="#">Contacto</a></li>
+                    </ul>
+
+                </div>
+
+            </div>
+
+    </div>
+
+</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{--
 <nav class="navbar navbar-inverse" id="menu">
     <div class="container-fluid">
         <div class="navbar-header">
@@ -73,7 +137,7 @@
 
     </div>
     </div>
-</nav>
+</nav>--}}
 
 
 
