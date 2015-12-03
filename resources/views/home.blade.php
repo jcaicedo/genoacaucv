@@ -38,7 +38,7 @@
                 </div>
 
                 <div class="col-md-2 col-md-offset-4" style="background-color: #0000C2;height: 100%;position: relative;right: 10%">
-hoalallalaa
+                    <img src="" alt="">
 
                 </div>
             </div>
