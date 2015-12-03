@@ -26,7 +26,7 @@
     <div class="container-fluid" id="Intro" >
         <div class="experience-section" id="experience" style="height: 800px; background-attachment: fixed; background-position: 50% 1px;">
                 <div class="wrapper">
-                    <div>
+                    <div >
                         <h2>SISGEOACA</h2>
                         <p>El Sistema de Gestión de Objetos de Aprendizaje de Contenidos Abiertos Accesibles, SisGeOACAA es la integración
                             de un conjunto de componentes denominados herramientas tecnológicas que permiten la creación, gestión, evaluación,
