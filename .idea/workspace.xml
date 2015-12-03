@@ -5,8 +5,6 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/banner-ppal.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/layouts/base.blade.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/resources/views/menu1.blade.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/css/genoaca.css" afterPath="$PROJECT_DIR$/public/assets/css/genoaca.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" />
     </list>
     <ignored path="genoacaucv.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -236,7 +234,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1609375" sideWeight="0.49643946" order="0" side_tool="false" content_ui="combo" />
