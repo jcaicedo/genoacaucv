@@ -34,37 +34,58 @@
     z-index: 9;
 }
 
-#flexible{
-    background: url('/images/legos_cropped.jpg') no-repeat center center / cover transparent;
-    background-color: rgb(0,0,255); opacity: 0.5;
+/*
+.flexible{
+    background: url('/images/legos_cropped.jpg') no-repeat center center;
+    background-size: cover;
+    background-color: #FFFFFF transparent;
 
+    filter:alpha(opacity=60); opacity:.6;
+}*/
 
+#experience{
+
+   background: url('/images/legos_cropped.jpg') no-repeat center center / cover transparent;
 
 }
 
 .experience-section{
     width: 100%;
     position: relative;
-    margin-bottom: 0;
 
 }
 
-#container-intro{
-    position: absolute;
-    margin-top: 100px;
+#Intro{
+
+    padding-left: 0;
+    padding-right: 0;
 
 }
 
-#text-intro{
-    background: rgba(91, 194, 54,1.3);
-    opacity: 0.5;
-    color: #0f0f0f;
+.wrapper{
+    margin: 0 auto;
+    max-width: 1060px;
+    width: 100%;
 
 }
 
-#text-intro p{
-
-    color: #ac2925;
-    font-size: 120%;
+.experience-section#experience div div{
+    float: right;
 }
 
+.experience-section div div {
+    color: #f6f6f6;
+    width: 510px;
+    margin-top: 10%;
+    background: rgba(91, 194, 54,0.7);
+    padding: 20px 20px 0;
+    border-radius: 1px;
+    text-shadow: 0 0 1px #666;
+}
+
+.experience-section div div h2{
+    font-size: 36px;
+    padding-bottom: 10px;
+    font-weight: 400;
+
+}
