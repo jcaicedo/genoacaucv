@@ -58,13 +58,16 @@
 
 .wrapper{
     margin: 0 auto;
-    max-width: 1060px;
+    max-width: 600px;
     width: 100%;
+    float: left;
+    margin-left: 7%;
+
 
 }
 
 .experience-section#experience div div{
-    float: right;
+    float: left;
 }
 
 .experience-section div div {
@@ -75,6 +78,7 @@
     padding: 20px 20px 0;
     border-radius: 1px;
     text-shadow: 0 0 1px #666;
+
 }
 
 .experience-section div div h2{
@@ -83,5 +87,27 @@
     font-weight: 400;
 
 }
+
+.wrapper div p{
+
+    font-size: 20px;
+}
+
+
+.wrapper2{
+    margin: 0 auto;
+    max-width: 600px;
+    width: 100%;
+    float: left;
+    margin-left: 7%;
+    float: right;
+
+}
+
+.wrapper2 div p{
+    font-size: 15px;
+
+}
+
 
 /*Fin Style Introduccion*/
