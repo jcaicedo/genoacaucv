@@ -1,3 +1,9 @@
+/*FONT*/
+body{
+font-family: 'Roboto Condensed', sans-serif;
+}
+/*//////////////*/
+
 .navbar{
 
     margin-bottom: 0;
@@ -74,7 +80,7 @@
     color: #f6f6f6;
     width: 510px;
     margin-top: 10%;
-    background: rgba(91, 194, 54,0.7);
+    background: rgba(103, 101, 93,0.7);
     padding: 20px 20px 0;
     border-radius: 1px;
     text-shadow: 0 0 1px #666;
@@ -95,8 +101,8 @@
 
 
 .wrapper2{
-    margin: 0 auto;
-    max-width: 600px;
+    margin: 0 100px;
+    max-width: 800px;
     width: 100%;
     float: left;
     margin-left: 7%;
