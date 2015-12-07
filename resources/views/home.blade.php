@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-12 jumbotron">
             <div class="text-center">
-                <p id="p-titulo">Sistema de Gestion de Objetos de Aprendizaje de Contenidos Abietos Accesibles</p>
+                <p id="p-titulo">Sistema de Gestion de Objetos de Aprendizaje <br> de <br> Contenidos Abietos Accesibles</p>
             </div>
         </div>
 

@@ -62,8 +62,6 @@
                                     Proyecto OACAA <span class="caret"></span>
                             </a>
                             <ul class="dropdown-menu" role="menu">
-
-                                <li><a href="#">Proyecto OACA</a></li>
                                 <li><a href="#">Instituciones Piloto</a></li>
                                 <li><a href="#">OACA</a></li>
                                 <li><a href="#">Equipo Desarrollo</a></li>
