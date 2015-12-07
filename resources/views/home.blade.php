@@ -37,7 +37,7 @@
                     </div>
                 </div>
                 <div class="wrapper2">
-                    <div style="width: 100%">
+                    <div id="div_w2">
                         <h2>CARACTERISTICAS</h2>
 
                         <p>Producción y distribución de contenidos abiertos.</p>

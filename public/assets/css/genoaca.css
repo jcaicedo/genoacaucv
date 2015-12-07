@@ -101,7 +101,7 @@ font-family: 'Roboto Condensed', sans-serif;
 
 
 .wrapper2{
-    margin: 0 100px;
+    margin: 200px 100px;
     max-width: 800px;
     width: 100%;
     float: left;
@@ -111,7 +111,12 @@ font-family: 'Roboto Condensed', sans-serif;
 }
 
 .wrapper2 div p{
-    font-size: 15px;
+    font-size:20px;
+
+}
+
+#div_w2{
+    width: 100%;
 
 }
 
