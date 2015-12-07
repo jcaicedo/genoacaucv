@@ -102,7 +102,8 @@ font-family: 'Roboto Condensed', sans-serif;
 
 
 .wrapper2{
-    margin: 200px 22px;
+    margin-bottom: 0%;
+    margin-right: 30px;
     max-width: 800px;
     width: 100%;
     float: left;
@@ -123,3 +124,20 @@ font-family: 'Roboto Condensed', sans-serif;
 
 
 /*Fin Style Introduccion*/
+
+
+/*INICIO HOME OACAA*/
+
+#oacaa_home{
+    margin-top: 0%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+#oacaa_home div div div h2,#oacaa_home div div div h3,#oacaa_home div div div p  {
+
+    text-align: center;
+
+}
+
+/*FIN HOME OACAA*/

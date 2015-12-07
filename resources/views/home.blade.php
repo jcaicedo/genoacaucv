@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-12 jumbotron">
             <div class="text-center">
-                <p id="p-titulo">Sistema de Gestion de Objetos de Aprendizaje <br> de <br> Contenidos Abietos Accesibles</p>
+                <p id="p-titulo">Sistema de Gestion de Objetos de Aprendizaje <br> de <br> Contenidos Abiertos Accesibles</p>
             </div>
         </div>
 
@@ -64,13 +64,22 @@
   {{--Fin Introduccion--}}
 
 
-    <!--INSTITUCIONES PILOTO-->
+    <!--OACAA-->
 
-    <div class="container-fluid">
+    <div class="container-fluid" id="oacaa_home">
             <div class="container">
-                <div class="col-md-4"><img src="/images/icono_generador.png" alt=""></div>
-                <div class="col-md-4"></div>
-                <div class="col-md-4"></div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Objetos de Aprendizaje de Contenidos Abiertos Accesibles</h2>
+                        <h3>OACAA</h3>
+
+                        <p>Recursos didácticos e interactivos en formato digital con una intecionalidad de aprendizaje definida, publicados
+                        bajo una licencia abierta de propiedad intelectual, desarrollados con programas y formatos técnitcos interoperables, con el propósito de ser reutilizados,
+                        adaptados, editados, combinados y distribuidos para los diversos ambientes de aprendizaje, considerando los aspectos de accesibilidad que permiten ser usados por todos;
+                        se caracterizan por la introducción de información auto descriptiva expresada en los metadatos.</p>
+
+                    </div>
+                </div>
             </div>
 
     </div>
