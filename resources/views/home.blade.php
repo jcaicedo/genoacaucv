@@ -83,6 +83,73 @@
             </div>
 
     </div>
-    <!--FIN INSTITUCIONES PILOTO-->
+    <!--FIN OACA-->
+
+    {{--DESAROLLADORES--}}
+
+    <div class="container">
+        <div class="row">
+            <h2>Ucv</h2>
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                <h3>Desarrollador1</h3>
+            </div>
+            <div class="col-md-3"> <img src="images/desarrollador2.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                <h3>Desarrollador2</h3>
+            </div>
+            <div class="col-md-3"> <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                <h3>Desarrollador3</h3>
+            </div>
+            <div class="col-md-3"> <img src="images/desarrollador2.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                <h3>Desarrollador4</h3>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Universidad Deportiva del Sur</h2>
+                <div class="col-md-3">
+                    <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                    <h3>Desarrollador1</h3>
+                </div>
+                <div class="col-md-3"> <img src="images/desarrollador2.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                    <h3>Desarrollador2</h3>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h2>UBV</h2>
+                <div class="col-md-3">
+                    <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                    <h3>Desarrollador1</h3>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+            </div>
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+            </div>
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+            </div>
+
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+            </div>
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+            </div>
+
+        </div>
+
+    </div>
+
+    {{--FIN DESARROLLADORES--}}
+
 
 @endsection
