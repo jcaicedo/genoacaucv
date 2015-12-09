@@ -9,6 +9,7 @@
 
 
 
+
     {!! Html::style('https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css') !!}
     {!! Html::style('assets/css/genoaca.css') !!}
     <link href="http://cdnjs.cloudflare.com/ajax/libs/foundicons/3.0.0/foundation-icons.css" rel="stylesheet">
@@ -21,7 +22,7 @@
 
     {{--Fonts--}}
 
-    <link href='//fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&subset=latin,greek' rel='stylesheet' type='text/css'>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -61,8 +62,6 @@
                                     Proyecto OACAA <span class="caret"></span>
                             </a>
                             <ul class="dropdown-menu" role="menu">
-
-                                <li><a href="#">Proyecto OACA</a></li>
                                 <li><a href="#">Instituciones Piloto</a></li>
                                 <li><a href="#">OACA</a></li>
                                 <li><a href="#">Equipo Desarrollo</a></li>
@@ -86,17 +85,11 @@
 @yield('content')
 
 
-{{--@yield('menu1')--}}
 
-{{--<div class="container">--}}
+<footer>
+    Copyring
+</footer>
 
-{{--@yield('content')--}}
-
-{{--</div>--}}
-
-{{--Script--}}
-
-{{--{!! Html::script('assets/js/bootstrap.min.js') !!}--}}
 {!! Html::script('https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js') !!}
 {!! Html::script('http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js') !!}
 

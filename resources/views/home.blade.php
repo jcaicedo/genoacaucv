@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-12 jumbotron">
             <div class="text-center">
-                <p id="p-titulo">Sistema de Gestion de Objetos de Aprendizaje de Contenidos Abietos Accesibles</p>
+                <p id="p-titulo">Sistema de Gestion de Objetos de Aprendizaje <br> de <br> Contenidos Abiertos Accesibles</p>
             </div>
         </div>
 
@@ -37,7 +37,7 @@
                     </div>
                 </div>
                 <div class="wrapper2">
-                    <div>
+                    <div id="div_w2">
                         <h2>CARACTERISTICAS</h2>
 
                         <p>Producción y distribución de contenidos abiertos.</p>
@@ -64,16 +64,92 @@
   {{--Fin Introduccion--}}
 
 
-    <!--INSTITUCIONES PILOTO-->
+    <!--OACAA-->
 
-    <div class="container-fluid">
+    <div class="container-fluid" id="oacaa_home">
             <div class="container">
-                <div class="col-md-4"><img src="/images/icono_generador.png" alt=""></div>
-                <div class="col-md-4"></div>
-                <div class="col-md-4"></div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Objetos de Aprendizaje de Contenidos Abiertos Accesibles</h2>
+                        <h3>OACAA</h3>
+
+                        <p>Recursos didácticos e interactivos en formato digital con una intecionalidad de aprendizaje definida, publicados
+                        bajo una licencia abierta de propiedad intelectual, desarrollados con programas y formatos técnitcos interoperables, con el propósito de ser reutilizados,
+                        adaptados, editados, combinados y distribuidos para los diversos ambientes de aprendizaje, considerando los aspectos de accesibilidad que permiten ser usados por todos;
+                        se caracterizan por la introducción de información auto descriptiva expresada en los metadatos.</p>
+
+                    </div>
+                </div>
             </div>
 
     </div>
-    <!--FIN INSTITUCIONES PILOTO-->
+    <!--FIN OACA-->
+
+    {{--DESAROLLADORES--}}
+
+    <div class="container">
+        <div class="row">
+            <h2>Ucv</h2>
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                <h3>Desarrollador1</h3>
+            </div>
+            <div class="col-md-3"> <img src="images/desarrollador2.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                <h3>Desarrollador2</h3>
+            </div>
+            <div class="col-md-3"> <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                <h3>Desarrollador3</h3>
+            </div>
+            <div class="col-md-3"> <img src="images/desarrollador2.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                <h3>Desarrollador4</h3>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h2>Universidad Deportiva del Sur</h2>
+                <div class="col-md-3">
+                    <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                    <h3>Desarrollador1</h3>
+                </div>
+                <div class="col-md-3"> <img src="images/desarrollador2.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                    <h3>Desarrollador2</h3>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <h2>UBV</h2>
+                <div class="col-md-3">
+                    <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+                    <h3>Desarrollador1</h3>
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="row">
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+            </div>
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+            </div>
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+            </div>
+
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+            </div>
+            <div class="col-md-3">
+                <img src="images/desarrollador1.jpg" alt="Yosly" class="img-circle tam-img-circle">
+            </div>
+
+        </div>
+
+    </div>
+
+    {{--FIN DESARROLLADORES--}}
+
 
 @endsection

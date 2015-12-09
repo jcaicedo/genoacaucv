@@ -1,3 +1,9 @@
+/*FONT*/
+body{
+font-family: 'Roboto Condensed', sans-serif;
+}
+/*//////////////*/
+
 .navbar{
 
     margin-bottom: 0;
@@ -19,6 +25,7 @@
     color: #0f0f0f;
     padding-top: 20%;
     padding-bottom: 0;
+    font-size: 30px;
 
 
 }
@@ -73,8 +80,8 @@
 .experience-section div div {
     color: #f6f6f6;
     width: 510px;
-    margin-top: 10%;
-    background: rgba(91, 194, 54,0.7);
+    margin-top: 5%;
+    background: rgba(103, 101, 93,0.7);
     padding: 20px 20px 0;
     border-radius: 1px;
     text-shadow: 0 0 1px #666;
@@ -95,8 +102,9 @@
 
 
 .wrapper2{
-    margin: 0 auto;
-    max-width: 600px;
+    margin-bottom: 0%;
+    margin-right: 30px;
+    max-width: 800px;
     width: 100%;
     float: left;
     margin-left: 7%;
@@ -105,9 +113,41 @@
 }
 
 .wrapper2 div p{
-    font-size: 15px;
+    font-size:20px;
+
+}
+
+#div_w2{
+    width: 100%;
 
 }
 
 
 /*Fin Style Introduccion*/
+
+
+/*INICIO HOME OACAA*/
+
+#oacaa_home{
+    margin-top: 0%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+#oacaa_home div div div h2,#oacaa_home div div div h3,#oacaa_home div div div p  {
+
+    text-align: center;
+
+}
+
+/*FIN HOME OACAA*/
+
+/*IMAGENES DESARROLLADORES*/
+
+.tam-img-circle{
+
+    width: 50%;
+    height: 50%;
+}
+
+/*FIN IMAGENES DESARROLLADORES*/
