@@ -83,64 +83,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{{--
-<nav class="navbar navbar-inverse" id="menu">
-    <div class="container-fluid">
-        <div class="navbar-header">
-        <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target="#menu" aria-expanded="false">
-            <span class="sr-only">GenOACAUCV</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-
-        </button>
-        <a href="#" class="navbar-brand">GenOACAUCV</a>
-        </div>
-
-    <div class="collapse navbar-collapse" id="menu">
-
-        <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Inicio</a></li>
-            <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Nosotros<span class="caret"></span></a>
-                <ul class="dropdown-menu" role="menu">
-                    <li><a href="#">Proyecto OACA</a></li>
-                    <li><a href="#">Instituciones Piloto</a></li>
-                    <li><a href="#">OACA</a></li>
-                    <li><a href="#">Equipo Desarrollo</a></li>
-
-                </ul>
-
-            </li>
-            <li><a href="#">Generador</a></li>
-            <li><a href="#">Contacto</a></li>
-
-        </ul>
-
-
-    </div>
-    </div>
-</nav>--}}
-
-
-
 @yield('content')
 
 
