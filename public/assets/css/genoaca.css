@@ -47,6 +47,7 @@ font-family: 'Roboto Condensed', sans-serif;
 #experience{
 
    background: url('/images/legos_cropped.jpg') no-repeat center center / cover transparent;
+    padding-left: 0%;
 
 }
 
@@ -60,67 +61,57 @@ font-family: 'Roboto Condensed', sans-serif;
 
     padding-left: 0;
     padding-right: 0;
-
-}
-
-.wrapper{
-    margin: 0 auto;
-    max-width: 600px;
-    width: 100%;
-    float: left;
-    margin-left: 7%;
-
-
-}
-
-.experience-section#experience div div{
-    float: left;
-}
-
-.experience-section div div {
-    color: #f6f6f6;
-    width: 510px;
-    margin-top: 5%;
-    background: rgba(103, 101, 93,0.7);
-    padding: 20px 20px 0;
+    position: absolute;
+    margin-top: 300px;
+    color: #080808;
     border-radius: 1px;
-    text-shadow: 0 0 1px #666;
+
 
 }
 
-.experience-section div div h2{
-    font-size: 36px;
-    padding-bottom: 10px;
-    font-weight: 400;
+#Intro p{
+    font-size: 50px;
+
 
 }
 
-.wrapper div p{
+/*.wrapper{*/
+    /*margin: 0 auto;*/
+    /*max-width: 800px;*/
+    /*width: 100%;*/
+    /*float: left;*/
+    /*margin-left: 7%;*/
 
-    font-size: 20px;
-}
 
+/*}*/
 
-.wrapper2{
-    margin-bottom: 0%;
-    margin-right: 30px;
-    max-width: 800px;
-    width: 100%;
-    float: left;
-    margin-left: 7%;
-    float: right;
+/*.experience-section#experience div div{*/
+    /*float: left;*/
+/*}*/
 
-}
+/*.experience-section div div {*/
+    /*color: #f6f6f6;*/
+    /*width: 510px;*/
+    /*margin-top: 5%;*/
+    /*background: rgba(103, 101, 93,0.7);*/
+    /*padding: 20px 20px 0;*/
+    /*border-radius: 1px;*/
+    /*text-shadow: 0 0 1px #666;*/
 
-.wrapper2 div p{
-    font-size:20px;
+/*}*/
 
-}
+/*.experience-section div div h2{*/
+    /*font-size: 36px;*/
+    /*padding-bottom: 10px;*/
+    /*font-weight: 400;*/
 
-#div_w2{
-    width: 100%;
+/*}*/
 
-}
+/*.wrapper div p{*/
+
+    /*font-size: 45px;*/
+/*}*/
+
 
 
 /*Fin Style Introduccion*/
