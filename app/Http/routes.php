@@ -16,3 +16,5 @@ Route::get('/', function () {
 });
 
 Route::get('diseño','HomeController@index');
+
+Route::get('prueba','HomeController@prueba');
